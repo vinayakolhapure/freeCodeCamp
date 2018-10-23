@@ -13,9 +13,12 @@ This is entirely transparent so all the nodes (miners), can see what logic is be
 
 A blockchain with smart contracts, expands the capabilities of the core technology. Ethereum for example, has its own Internet browser, programming language (Solidity) and payment system. It enables users to create decentralized applications (dApps) on its blockchain.
 
-## Blockchain Technologies
+## Smart Contract Platforms
 
-Two of the most common technologies used are :
+Two of the most common smart contract platforms are :
 - Ethereum
 - Hyperledger
 
+There are others as well which differ in implementation, but support smart contracts. Platforms like,
+- Stellar
+- NEM
