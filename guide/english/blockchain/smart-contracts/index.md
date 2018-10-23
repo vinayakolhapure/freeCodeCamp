@@ -11,6 +11,7 @@ As a piece of code that sits on the blockchain, a smart contract can automate ta
 When an account receives money it can automatically distribute it to others.
 This is entirely transparent so all the nodes(miners) can see what logic is being executed.
 
+A blockchain with smart contracts, expands the capabilities of the core technology. Ethereum for example, has its own Internet browser, programming language (Solidity) and payment system. It enables users to create decentralized applications (dApps) on its blockchain.
 
 ## Blockchain Technologies
 
